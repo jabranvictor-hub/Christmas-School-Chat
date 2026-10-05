@@ -1,0 +1,7 @@
+{
+  "name": "Christmas School AI Chat 🎄🤖",
+  "description": "All-in-one festive AI assistant for Christmas School, Christmas activities, Bible teachings, and Urdu Bible study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
